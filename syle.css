@@ -1,0 +1,14 @@
+header{
+background-color: crimson;
+width: 100%
+}
+
+img{
+    width:150px;
+    height:150px;
+}
+h1{
+    font-size:240px
+    color: rgb(67, 67, 120);
+    font-family: "gill sans", "gill sans MT"
+}
